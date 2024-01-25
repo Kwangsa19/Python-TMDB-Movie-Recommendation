@@ -22,7 +22,7 @@ P.S: In the overview section, there are 30 missing data. In this Analysis, we wi
 * `Recommendation`: Vectorize the overview column.
 ![VSCodium_OR15Ja2Y9B](https://github.com/Kwangsa19/Python-TMDB-Movie-Recommendation/assets/135963482/52ea5363-a6e4-4b67-9513-6530de92013b)
 
- Several movies are similar to `Dark Knight Rises`: 
+ Several movies are similar to `The Dark Knight`(The value is 1 for the given movie): 
 
 ![VSCodium_c4QDGNlC7I](https://github.com/Kwangsa19/Python-TMDB-Movie-Recommendation/assets/135963482/a93ed45e-60ad-468f-a8b7-15f5dee4225e)
 
